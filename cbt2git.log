@@ -1,0 +1,5 @@
+2023-08-06 03:42:15.643286 - Initialized conversion of CBT370
+2023-08-06 03:42:15.662454 - Received CBT.V505.FILE370.PDS from FILE370.XMI 
+2023-08-06 03:42:15.664495 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE370.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:42:15.665533 - Found @FILE370.txt (text/plain) in CBT.V505.FILE370.PDS, moved to PDS/@FILE370
+2023-08-06 03:42:15.666460 - Found ESA1.txt (text/plain) in CBT.V505.FILE370.PDS, moved to PDS/ESA1
